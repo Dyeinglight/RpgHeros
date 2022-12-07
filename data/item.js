@@ -5,7 +5,7 @@ const item = (function() {
       name: 'Slime'
     },
     1000: {
-      name: 'Slime Token'
+      name: 'Slimey Core'
     }
   }
 
