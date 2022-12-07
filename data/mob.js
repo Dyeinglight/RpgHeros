@@ -13,12 +13,12 @@ const mob = (function() {
     },
     giant_slime: {
       name: 'Giant Slime',
-      hp: 50, atk: 5, def: 15, spd: 3,
+      hp: 25, atk: 5, def: 15, spd: 3,
       drop: [{ id: 0, chance: 9500 }, { id: 0, chance: 9500 }, { id: 1000, chance: 50 }]
     },
     slime_king: {
       name: 'Slime King',
-      hp: 1000, atk: 100, def: 100, spd: 100,
+      hp: 100, atk: 85, def: 45, spd: 65,
       drop: [{ id: 0, chance: 9500 }, { id: 0, chance: 9500 },{ id: 0, chance: 9500 }, { id: 1000, chance: 10000 }, { id: 1000, chance: 6666 }, { id: 1000, chance: 3333 }]
     }
   }
